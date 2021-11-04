@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "Eastgate Food Shelter",
+              "description": "A food shelter in Eastgate",
+              "discipline": "Food Shelter",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates":[-122.13837,47.576529]
+          }
+        },
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "Bellevue Food Shelter",
+              "description": "A food shelter in Bellevue",
+              "discipline": "Food Shelter",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-122.141009,47.574647]
+          }
+        },
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "San Francisco Food Shelter",
+              "description": "A food shelter in San Francisco",
+              "discipline": "Food Shelter",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-122.63101,38.474555]
+          }
+        },
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "Seattle Medical Center",
+              "description": "A medical center in Seattle",
+              "discipline": "Medical Center",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates":[-122.315615,47.608886]
+          }
+        },
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "Factoria Medical Center",
+              "description": "A medical center in Factoria",
+              "discipline": "Medical Center",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-122.170662,47.573101]
+          }
+        },
+      {
+          "type": "Feature",
+          "properties": {
+              "title": "LA Medical Center",
+              "description": "A medical center in LA",
+              "discipline": "Medical Center",
+              "availability":true,
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-118.168913,34.503097]
+          }
+        }
+      ]
+}
+
